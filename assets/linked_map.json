@@ -1,0 +1,87 @@
+{
+ "generated_at": "2026-11-14T23:04:21",
+ "_comment": "联动同步表（清单 8.3：改一处必须同步；运行期由 calculator 重算保证一致性，本表作断言依据）",
+ "groups": [
+  {
+   "key": "d_bore(=35)",
+   "items": [
+    "gear.bore_d",
+    "shaft.seg4_d",
+    "gear.hub_d",
+    "gear.key_depth",
+    "shaft.seg4_key"
+   ],
+   "n": 5
+  },
+  {
+   "key": "key10x8x45",
+   "items": [
+    "shaft.key2_l",
+    "gear.key_len",
+    "gear.key_w",
+    "shaft.key2_depth",
+    "gear.key_depth"
+   ],
+   "n": 5
+  },
+  {
+   "key": "m(=2)",
+   "items": [
+    "gear.da2",
+    "gear.df2",
+    "gear.W",
+    "gear.da2_tol_rule",
+    "gear.m"
+   ],
+   "n": 5
+  },
+  {
+   "key": "b2(=54)",
+   "items": [
+    "gear.b2",
+    "gear.hub_l",
+    "shaft.seg4_l"
+   ],
+   "n": 4
+  },
+  {
+   "key": "a(=161)",
+   "items": [
+    "gear.a",
+    "gear.a_tol_text",
+    "box_delta",
+    "box_df"
+   ],
+   "n": 4
+  },
+  {
+   "key": "z2(=134)",
+   "items": [
+    "gear.k",
+    "gear.W",
+    "gear.da2",
+    "gear.df2"
+   ],
+   "n": 4
+  },
+  {
+   "key": "6206",
+   "items": [
+    "shaft.seg3_d",
+    "shaft.seg6_d",
+    "shaft.seg5_d",
+    "bearing_6206"
+   ],
+   "n": 4
+  },
+  {
+   "key": "hole_n(=6)",
+   "items": [
+    "gear.hole_n",
+    "gear.hole_nxd_text(139)"
+   ],
+   "n": 2,
+   "note": "R5 均布联动扩展（V1.2）"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "generated_at": "2026-11-14T23:04:21",
+ "_comment": "calculator 公式库（清单 4.1）",
+ "d1": "m*z1",
+ "d2": "m*z2",
+ "da2": "d2+2*m",
+ "df2": "d2-2.5*m",
+ "a": "(d1+d2)/2",
+ "hub_d": "1.6*d_bore",
+ "hub_l": "max(1.2*d_bore, b2) 图纸定稿优先",
+ "rim_inner": "da2-2*delta0",
+ "d0_circle": "(rim_inner+hub_d)/2",
+ "k": "round(z2/9+0.5) 取整",
+ "W": "m*cos(alpha*pi/180)*(pi*(k-0.5)+z2*inv_alpha), inv_alpha=tan(alpha)-alpha*pi/180",
+ "shaft_total_l": "sum(seg_l)",
+ "d_min": "A0*(P/n)^(1/3)",
+ "key_l": "键长（键 b×h×L）",
+ "seg_l_chain": "轴承宽T+壁厚δ+间隙Δ+s 累加链（SRD 直接给定）"
+}

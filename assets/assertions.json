@@ -1,0 +1,120 @@
+{
+ "generated_at": "2026-11-14T23:04:21",
+ "_comment": "尺寸链断言 A1~A15 + 豁免表（清单 8.4：图纸取值类偏差自动留痕放行）",
+ "assertions": [
+  {
+   "id": "A1",
+   "expr": "da2 == d2 + 2*m",
+   "expect_case001": 272
+  },
+  {
+   "id": "A2",
+   "expr": "df2 == d2 - 2.5*m",
+   "expect_case001": 263
+  },
+  {
+   "id": "A3",
+   "expr": "rim_inner == da2 - 2*delta0",
+   "expect_case001": 252
+  },
+  {
+   "id": "A4",
+   "expr": "d0_circle == (rim_inner + hub_d)/2",
+   "expect_case001": 154
+  },
+  {
+   "id": "A5",
+   "expr": "d0_hole ≈ 0.25*(rim_inner - hub_d)",
+   "expect_case001": 49,
+   "tol": 10.01
+  },
+  {
+   "id": "A6",
+   "expr": "key_depth ≈ d_bore + t2",
+   "expect_case001": 38.3,
+   "tol": 0.71
+  },
+  {
+   "id": "A7",
+   "expr": "total_l == sum(seg_l)",
+   "expect_case001": 242
+  },
+  {
+   "id": "A8",
+   "expr": "key1_depth ≈ d1 - t1",
+   "expect_case001": 19.0,
+   "tol": 0.51
+  },
+  {
+   "id": "A9",
+   "expr": "key2_depth ≈ d4 - t1",
+   "expect_case001": 30.0,
+   "tol": 1.01
+  },
+  {
+   "id": "A10",
+   "expr": "key_len == 键长",
+   "expect_case001": [
+    50,
+    45
+   ]
+  },
+  {
+   "id": "A11",
+   "expr": "seg3_d == seg6_d == bearing内径",
+   "expect_case001": 30
+  },
+  {
+   "id": "A12",
+   "expr": "seg5_d == seg3_d + 2*h定位",
+   "expect_case001": 36,
+   "tol": 0.01
+  },
+  {
+   "id": "A13",
+   "expr": "b2 == hub_l（本例）",
+   "expect_case001": 54
+  },
+  {
+   "id": "A14",
+   "expr": "k == round(z2/9 + 0.5)",
+   "expect_case001": 15
+  },
+  {
+   "id": "A15",
+   "expr": "|W - 公式值| <= 0.01",
+   "expect_case001": 89.37,
+   "tol": 0.01
+  }
+ ],
+ "exemptions": [
+  {
+   "assertion": "A5",
+   "reason": "减重孔直径为图纸取值 59（公式 49），清单 5.1 已裁决取 59",
+   "status": "auto_exempt",
+   "expected": 49,
+   "actual": 59
+  },
+  {
+   "assertion": "A6",
+   "reason": "键槽深 39 为图纸取值（38.3+0.7），清单 8.4 图纸取值",
+   "status": "auto_exempt",
+   "expected": 38.3,
+   "actual": 39
+  },
+  {
+   "assertion": "A8",
+   "reason": "键槽深 19.5 为图纸取值（19.0+0.5）",
+   "status": "auto_exempt",
+   "expected": 19,
+   "actual": 19.5
+  },
+  {
+   "assertion": "A9",
+   "reason": "键槽深 31 为图纸取值（30.0+1.0）",
+   "status": "auto_exempt",
+   "expected": 30,
+   "actual": 31
+  }
+ ]
+}

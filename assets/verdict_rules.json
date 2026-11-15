@@ -1,0 +1,161 @@
+{
+ "generated_at": "2026-11-14T19:00:10",
+ "_comment": "三通道裁决规则（需求 3.3，U0 会签位）+ 冲突基准 C1~C14（需求 3.4）",
+ "channels": {
+  "A": {
+   "scope": "算例硬数据（SRD 计算/选定值）",
+   "rule": "SRD（D 六 > S/R）为准，模板不符则修正；数值变化经联动表同步"
+  },
+  "B": {
+   "scope": "查表标准值（公差带/检验偏差/粗糙度档）",
+   "rule": "模板现值为准；lookup 换档时按档位表重查，新值与模板档位模式一致方可落图"
+  },
+  "C": {
+   "scope": "工艺/材料（热处理/圆角/倒角）",
+   "rule": "模板为准；工艺方式变更须书面确认（U2）"
+  }
+ },
+ "conflicts": [
+  {
+   "id": "C1",
+   "item": "gear.d0_hole",
+   "v1": "49（D四 公式）",
+   "v2": "59（D六/模板）",
+   "verdict": "取 59",
+   "status": "decided"
+  },
+  {
+   "id": "C2",
+   "item": "gear.web_t",
+   "v1": "16.2（公式）",
+   "v2": "10（D六/模板）",
+   "verdict": "取 10（低于下限 10.8 留痕）",
+   "status": "decided"
+  },
+  {
+   "id": "C3",
+   "item": "gear.key_w_tol",
+   "v1": "±0.0215（D六 标为腹板厚公差）",
+   "v2": "±0.018（10JS9）",
+   "verdict": "挂键槽宽 10，值取模板 ±0.0215",
+   "status": "decided"
+  },
+  {
+   "id": "C4",
+   "item": "shaft.key2_pos/key1_pos",
+   "v1": "倒角（D六）",
+   "v2": "键槽定位（清单 5.2）",
+   "verdict": "依模板图形判定为键槽轴向定位：3.5=肩246.5→键槽2槽口端250（DIM#115 锚点实测）；2.0=端面99→键槽1槽口端101（#130）",
+   "status": "decided_by_geometry（U4，HB3 复核位）"
+  },
+  {
+   "id": "C5",
+   "item": "shaft.key1_depth/key2_depth",
+   "v1": "键槽定位（D六）",
+   "v2": "键槽深（清单 3.1）",
+   "verdict": "依模板图形判定为键槽深：19.5/31 为断面 F-F/G-G 的 d−t1 图值（#841/#85C 锚点实测，公差 0/-0.020）",
+   "status": "decided_by_geometry（U4，HB3 复核位）"
+  },
+  {
+   "id": "C6",
+   "item": "shaft.seg1/3/6_d_tol",
+   "v1": "清单 5.2：改 4.1 值",
+   "v2": "Q5：模板为准",
+   "verdict": "U1：暂按清单 5.2 取 4.1 值修正；后续算例按 lookup 档位自动取值",
+   "status": "pending_sign"
+  },
+  {
+   "id": "C7",
+   "item": "gear.material",
+   "v1": "调质 197~286HBS（S）",
+   "v2": "正火 170-210HBW（模板）",
+   "verdict": "C 通道模板为准 + 书面确认（U2）",
+   "status": "pending_sign"
+  },
+  {
+   "id": "C8",
+   "item": "gear.bore_tol",
+   "v1": "+0.025/0（H7 清单）",
+   "v2": "+0.030/0（模板）",
+   "verdict": "B 通道取模板值，差异记录",
+   "status": "decided"
+  },
+  {
+   "id": "C9",
+   "item": "gear.da2_tol",
+   "v1": "0/-0.32（h11）",
+   "v2": "0/-0.300（模板）",
+   "verdict": "B 通道取模板值",
+   "status": "decided"
+  },
+  {
+   "id": "C10",
+   "item": "gear.f_pt",
+   "v1": "±0.017（表19-2）",
+   "v2": "±0.012（模板）",
+   "verdict": "B 通道取模板值",
+   "status": "decided"
+  },
+  {
+   "id": "C11",
+   "item": "gear.F_r",
+   "v1": "0.055（表19-4）",
+   "v2": "0.043（模板）",
+   "verdict": "B 通道取模板值",
+   "status": "decided"
+  },
+  {
+   "id": "C12",
+   "item": "shaft.key1_w_tol",
+   "v1": "8N9=0/-0.036",
+   "v2": "0/-0.043（模板）",
+   "verdict": "B 通道取模板值，差异记录",
+   "status": "decided"
+  },
+  {
+   "id": "C13",
+   "item": "gear.key_w_tol",
+   "v1": "10JS9=±0.018",
+   "v2": "±0.0215（模板）",
+   "verdict": "B 通道取模板值",
+   "status": "decided"
+  },
+  {
+   "id": "C14",
+   "item": "定位销 M8",
+   "v1": "D二",
+   "v2": "8×30 圆锥销（清单 5.2）",
+   "verdict": "装配图内容，V1 不适用",
+   "status": "na"
+  }
+ ],
+ "u_signoffs": {
+  "U0": {
+   "desc": "三通道裁决规则认可",
+   "status": "pending_sign"
+  },
+  "U1": {
+   "desc": "轴颈偏差取清单 4.1 值（φ23 r6 +0.041/+0.028、φ30 k6 +0.015/+0.002、φ35 r6 +0.050/+0.034）",
+   "status": "pending_sign",
+   "default": "apply"
+  },
+  "U2": {
+   "desc": "大齿轮热处理 正火 vs 调质",
+   "status": "pending_sign",
+   "default": "keep_template"
+  },
+  "U6": {
+   "desc": "向量库与清单 8.2 双源不一致：向量库优先+差异留痕（MVP 向量库未启用，清单 8.2 兜底）",
+   "status": "pending_sign"
+  },
+  "U8": {
+   "desc": "异常文本清理（飞制2303…）",
+   "status": "pending_sign",
+   "default": "keep"
+  },
+  "U15": {
+   "desc": "算例输入目录迁移=复制（docs 保留原始档案）",
+   "status": "decided"
+  }
+ }
+}

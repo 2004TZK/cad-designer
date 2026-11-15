@@ -1,0 +1,53 @@
+{
+ "tau": 0.584,
+ "tau_bge": 0.584,
+ "tau_lexical": null,
+ "rows": [
+  {
+   "query": "表19-2 齿距累积总偏差 F_p 单个齿距偏差 f_pt 齿廓总偏差 8级",
+   "top_score": 0.7838,
+   "top_chunk": 625,
+   "expected_found": true,
+   "hit_score": 0.7838
+  },
+  {
+   "query": "表14-26 平键键槽 剖面尺寸 t1 t2 轴槽宽 b 10 毂槽 JS9",
+   "top_score": 0.7163,
+   "top_chunk": 310,
+   "expected_found": true,
+   "hit_score": 0.7163
+  },
+  {
+   "query": "表18-3 孔的极限偏差 H7 +0.025 上偏差 下偏差",
+   "top_score": 0.7203,
+   "top_chunk": 571,
+   "expected_found": true,
+   "hit_score": 0.7203
+  },
+  {
+   "query": "表19-5 中心距极限偏差 fa 齿轮副",
+   "top_score": 0.6948,
+   "top_chunk": 633,
+   "expected_found": true,
+   "hit_score": 0.6948
+  },
+  {
+   "query": "表19-4 径向跳动公差 Fr 值",
+   "top_score": 0.6367,
+   "top_chunk": 611,
+   "expected_found": true,
+   "hit_score": 0.6344
+  },
+  {
+   "query": "表19-8 齿顶圆 公差 0.1m_n IT11",
+   "top_score": 0.7296,
+   "top_chunk": 637,
+   "expected_found": true,
+   "hit_score": 0.7296
+  }
+ ],
+ "n_correct": 6,
+ "n_cases": 6,
+ "backend": "bge-m3",
+ "note": "U5 阈值标定：清单 8.2 做 ground truth；向量后端 τ=正确命中最低分−0.05，词面后端按比例"
+}

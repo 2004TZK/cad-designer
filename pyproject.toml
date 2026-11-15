@@ -1,0 +1,28 @@
+[project]
+name = "cad-agent"
+version = "0.1.0"
+description = "减速器 CAD 自动出图流水线（SRD 文档组 → 大齿轮+输出轴工程图）MVP"
+requires-python = ">=3.11"
+dependencies = [
+    "ezdxf>=1.4",
+    "numpy>=1.26",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+# FR-09 DWG 转换 COM 链路（Windows + 本机 AutoCAD）
+com = ["pywin32>=306"]
+# FR-05 向量检索兜底（bge-m3 本地推理；MVP 未启用）
+rag = ["FlagEmbedding>=1.2", "torch"]
+# FR-14 LLM 辅助位（Q11：DeepSeek 首选，通义/GLM 备选）
+llm = ["openai>=1.30"]
+
+[project.scripts]
+cad-agent = "cad_agent.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,2890 @@
+{
+ "generated_at": "2026-11-14T23:04:21",
+ "templates": {
+  "gear": {
+   "path": "D:\\CODE\\cad-designer\\dwg\\大齿轮.dxf",
+   "dxfversion": "AC1032",
+   "codepage": "ANSI_936",
+   "bbox": [
+    0.0,
+    0.0,
+    420.0,
+    297.0
+   ],
+   "ms_stats": {
+    "LINE": 154,
+    "ARC": 9,
+    "HATCH": 3,
+    "DIMENSION": 11,
+    "LEADER": 3,
+    "TOLERANCE": 3,
+    "MTEXT": 72,
+    "LWPOLYLINE": 1
+   },
+   "block_stats": {
+    "*D1": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D2": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D3": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D4": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D5": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D6": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D7": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D8": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D9": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D10": {
+     "LINE": 4,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D11": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "A下": {
+     "LINE": 2,
+     "CIRCLE": 1,
+     "MTEXT": 1
+    },
+    "1.6上": {
+     "LINE": 4,
+     "MTEXT": 1
+    },
+    "3.2下": {
+     "LINE": 4,
+     "MTEXT": 1
+    },
+    "3.2左": {
+     "LINE": 4,
+     "MTEXT": 1
+    },
+    "3.2右": {
+     "LINE": 4,
+     "MTEXT": 1
+    },
+    "6.3右": {
+     "LINE": 4,
+     "MTEXT": 1
+    },
+    "一级大齿轮标题栏": {
+     "LINE": 14,
+     "MTEXT": 12
+    },
+    "A$C688F5789": {
+     "MTEXT": 1
+    },
+    "A$C44805C89": {
+     "MTEXT": 1
+    },
+    "其余12.5": {
+     "LINE": 4,
+     "MTEXT": 2
+    },
+    "直齿轮参数表": {
+     "LINE": 24,
+     "MTEXT": 40
+    },
+    "A$C62D4694F": {
+     "MTEXT": 1
+    },
+    "均布_右": {
+     "MTEXT": 1
+    },
+    "两端_下": {
+     "MTEXT": 1
+    },
+    "3.2上": {
+     "LINE": 4,
+     "MTEXT": 1
+    }
+   }
+  },
+  "shaft": {
+   "path": "D:\\CODE\\cad-designer\\dwg\\输出轴.dxf",
+   "dxfversion": "AC1032",
+   "codepage": "ANSI_936",
+   "bbox": [
+    0.0,
+    0.0,
+    420.0,
+    297.0
+   ],
+   "ms_stats": {
+    "LINE": 151,
+    "ARC": 14,
+    "HATCH": 6,
+    "DIMENSION": 20,
+    "LEADER": 7,
+    "TOLERANCE": 7,
+    "MTEXT": 38,
+    "LWPOLYLINE": 4
+   },
+   "block_stats": {
+    "*D1": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D2": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D3": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D4": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D5": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D6": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D7": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D8": {
+     "LINE": 4,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D9": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D10": {
+     "LINE": 4,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D11": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D12": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D13": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D14": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D15": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D16": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "F_F 上": {
+     "LINE": 5,
+     "HATCH": 1,
+     "MTEXT": 1
+    },
+    "F_F 下": {
+     "LINE": 5,
+     "HATCH": 1,
+     "MTEXT": 1
+    },
+    "G_G 上": {
+     "LINE": 5,
+     "HATCH": 1,
+     "MTEXT": 1
+    },
+    "G_G 下": {
+     "LINE": 5,
+     "HATCH": 1,
+     "MTEXT": 1
+    },
+    "1.6上": {
+     "LINE": 4,
+     "MTEXT": 1
+    },
+    "0.8上": {
+     "LINE": 4,
+     "MTEXT": 1
+    },
+    "3.2左": {
+     "LINE": 4,
+     "MTEXT": 1
+    },
+    "1.6右": {
+     "LINE": 4,
+     "MTEXT": 1
+    },
+    "D下": {
+     "LINE": 2,
+     "CIRCLE": 1,
+     "MTEXT": 1
+    },
+    "B下": {
+     "LINE": 2,
+     "CIRCLE": 1,
+     "MTEXT": 1
+    },
+    "C下": {
+     "LINE": 2,
+     "CIRCLE": 1,
+     "MTEXT": 1
+    },
+    "A下": {
+     "LINE": 2,
+     "CIRCLE": 1,
+     "MTEXT": 1
+    },
+    "F-F": {
+     "MTEXT": 1
+    },
+    "G-G": {
+     "MTEXT": 1
+    },
+    "*D31": {
+     "LINE": 4,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D32": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D33": {
+     "LINE": 4,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "*D34": {
+     "LINE": 3,
+     "SOLID": 2,
+     "MTEXT": 1,
+     "POINT": 3
+    },
+    "3.2右": {
+     "LINE": 4,
+     "MTEXT": 1
+    },
+    "6.3左": {
+     "LINE": 4,
+     "MTEXT": 1
+    },
+    "输出轴标题栏": {
+     "LINE": 14,
+     "MTEXT": 12
+    },
+    "A$C688F5789": {
+     "MTEXT": 1
+    },
+    "A$C44805C89": {
+     "MTEXT": 1
+    },
+    "其余12.5": {
+     "LINE": 4,
+     "MTEXT": 2
+    }
+   }
+  }
+ },
+ "layers": {
+  "gear": [
+   "0",
+   "中心线",
+   "粗实线",
+   "细实线",
+   "剖面线",
+   "尺寸线",
+   "文字",
+   "虚线",
+   "双点划线",
+   "Defpoints",
+   "细实线层"
+  ],
+  "shaft": [
+   "0",
+   "中心线",
+   "粗实线",
+   "细实线",
+   "剖面线",
+   "尺寸线",
+   "文字",
+   "虚线",
+   "双点划线",
+   "Defpoints"
+  ]
+ },
+ "style_templates": {
+  "simsun": "工程字2/Standard（SimSun）",
+  "dim_stack": "%%C{main}{{\\H0.71x;\\C3;\\S{sup}^ {sub};}}",
+  "dim_pm": "{main}%%P{v}",
+  "plain": "{text}"
+ },
+ "tables": {
+  "gear_params": {
+   "x_range": [
+    345,
+    415
+   ],
+   "y_range": [
+    173,
+    292
+   ],
+   "cells": "绑定表 bindings（item↔handle）即格子映射"
+  },
+  "titleblock": {
+   "x_range": [
+    265,
+    415
+   ],
+   "y_range": [
+    5,
+    40
+   ]
+  },
+  "techreq": {
+   "gear": "4CB",
+   "shaft": "A8D"
+  }
+ },
+ "views": {
+  "gear": {
+   "section": "主视全剖（x<150，中心(82,148.5)，比例1:1.5）",
+   "side": "孔端视图（中心(233.7,148.5)）",
+   "scale": "1:1.5"
+  },
+  "shaft": {
+   "main": "主视（轴线y=187，比例1:1）",
+   "sections": [
+    "F-F@129",
+    "G-G@203"
+   ],
+   "scale": "1:1"
+  }
+ },
+ "bindings": {
+  "gear": [
+   {
+    "item": "gear.bore_d+gear.bore_tol",
+    "handle": "EA",
+    "kind": "dimension",
+    "render": "dim_dia_tol",
+    "expect": "φ35+0.030/  0",
+    "op": "E1"
+   },
+   {
+    "item": "gear.d2",
+    "handle": "F8",
+    "kind": "dimension",
+    "render": "dim_dia",
+    "expect": "φ268",
+    "op": "E1"
+   },
+   {
+    "item": "gear.da2+gear.da2_tol",
+    "handle": "105",
+    "kind": "dimension",
+    "render": "dim_dia_tol",
+    "expect": "φ272 0/ -0.300",
+    "op": "E1"
+   },
+   {
+    "item": "gear.hub_d",
+    "handle": "112",
+    "kind": "dimension",
+    "render": "dim_dia",
+    "expect": "φ56",
+    "op": "E1"
+   },
+   {
+    "item": "gear.d0_circle",
+    "handle": "11F",
+    "kind": "dimension",
+    "render": "dim_dia",
+    "expect": "φ154",
+    "op": "E1"
+   },
+   {
+    "item": "gear.rim_inner",
+    "handle": "12C",
+    "kind": "dimension",
+    "render": "dim_dia",
+    "expect": "φ252",
+    "op": "E1"
+   },
+   {
+    "item": "gear.hole_n+gear.d0_hole",
+    "handle": "139",
+    "kind": "dimension",
+    "render": "dim_nxd",
+    "expect": "6Xφ59",
+    "op": "E1"
+   },
+   {
+    "item": "gear.key_w",
+    "handle": "146",
+    "kind": "dimension",
+    "render": "dim_num",
+    "expect": "10",
+    "op": "E1"
+   },
+   {
+    "item": "gear.hub_l",
+    "handle": "153",
+    "kind": "dimension",
+    "render": "dim_num",
+    "expect": "54",
+    "op": "E1"
+   },
+   {
+    "item": "gear.key_w+gear.key_w_tol",
+    "handle": "160",
+    "kind": "dimension",
+    "render": "dim_pm",
+    "expect": "10±0.0215",
+    "op": "E4"
+   },
+   {
+    "item": "gear.key_depth+gear.key_depth_tol",
+    "handle": "16E",
+    "kind": "dimension",
+    "render": "dim_num_tol",
+    "expect": "39+0.2/  0",
+    "op": "E1"
+   },
+   {
+    "item": "gear.m",
+    "handle": "620",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "2",
+    "op": "E2"
+   },
+   {
+    "item": "gear.z2",
+    "handle": "621",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "134",
+    "op": "E2"
+   },
+   {
+    "item": "gear.alpha",
+    "handle": "61D",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "20°",
+    "op": "E2"
+   },
+   {
+    "item": "gear.ha_star",
+    "handle": "61E",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "1.0",
+    "op": "E2"
+   },
+   {
+    "item": "gear.x_shift",
+    "handle": "622",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "0",
+    "op": "E2"
+   },
+   {
+    "item": "gear.precision",
+    "handle": "623",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "8",
+    "op": "E2"
+   },
+   {
+    "item": "gear.a_tol_text",
+    "handle": "624",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "161±0.032",
+    "op": "E2"
+   },
+   {
+    "item": "gear.z1",
+    "handle": "625",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "27",
+    "op": "E2"
+   },
+   {
+    "item": "gear.F_r",
+    "handle": "60C",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "0.043",
+    "op": "E2"
+   },
+   {
+    "item": "gear.F_alpha",
+    "handle": "615",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "0.022",
+    "op": "E2"
+   },
+   {
+    "item": "gear.f_pt",
+    "handle": "61C",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "±0.012",
+    "op": "E2"
+   },
+   {
+    "item": "gear.W",
+    "handle": "617",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "42.439",
+    "op": "E2"
+   },
+   {
+    "item": "gear.W_tol_up",
+    "handle": "61A",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "-0.132",
+    "op": "E2"
+   },
+   {
+    "item": "gear.W_tol_down",
+    "handle": "61B",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "-0.176",
+    "op": "E2"
+   },
+   {
+    "item": "gear.k",
+    "handle": "619",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "6",
+    "op": "E2"
+   },
+   {
+    "item": "gear.tech_req",
+    "handle": "4CB",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "技术要求(45钢正火170-210HBW/R5/C2)",
+    "op": "E2"
+   },
+   {
+    "item": "gear.title_name",
+    "handle": "4C0",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "大齿轮",
+    "op": "E2"
+   },
+   {
+    "item": "gear.title_scale",
+    "handle": "61F",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "1:1.5",
+    "op": "E2"
+   },
+   {
+    "item": "gear.title_designer",
+    "handle": "84D",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "郑佳暄",
+    "op": "E2"
+   },
+   {
+    "item": "gear.title_course",
+    "handle": "4C9",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "机械设计课程设计",
+    "op": "E2"
+   },
+   {
+    "item": "gear.abnormal_text",
+    "handle": "4CA",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "飞制2303|233423030303",
+    "op": "E5"
+   }
+  ],
+  "shaft": [
+   {
+    "item": "shaft.seg1_l",
+    "handle": "B9",
+    "kind": "dimension",
+    "render": "dim_num",
+    "expect": "53",
+    "op": "E1"
+   },
+   {
+    "item": "shaft.seg2_l",
+    "handle": "C7",
+    "kind": "dimension",
+    "render": "dim_num",
+    "expect": "50",
+    "op": "E1"
+   },
+   {
+    "item": "shaft.seg3_l",
+    "handle": "D4",
+    "kind": "dimension",
+    "render": "dim_num",
+    "expect": "44.5",
+    "op": "E1"
+   },
+   {
+    "item": "shaft.seg4_l",
+    "handle": "E1",
+    "kind": "dimension",
+    "render": "dim_num",
+    "expect": "52",
+    "op": "E1"
+   },
+   {
+    "item": "shaft.seg6_l",
+    "handle": "EE",
+    "kind": "dimension",
+    "render": "dim_num",
+    "expect": "16",
+    "op": "E1"
+   },
+   {
+    "item": "shaft.total_l",
+    "handle": "FB",
+    "kind": "dimension",
+    "render": "dim_num",
+    "expect": "242",
+    "op": "E1"
+   },
+   {
+    "item": "shaft.key2_l",
+    "handle": "108",
+    "kind": "dimension",
+    "render": "dim_num",
+    "expect": "45",
+    "op": "E1"
+   },
+   {
+    "item": "shaft.key2_pos",
+    "handle": "115",
+    "kind": "dimension",
+    "render": "dim_num",
+    "expect": "3.5",
+    "op": "E1"
+   },
+   {
+    "item": "shaft.key1_l",
+    "handle": "123",
+    "kind": "dimension",
+    "render": "dim_num",
+    "expect": "50",
+    "op": "E1"
+   },
+   {
+    "item": "shaft.key1_pos",
+    "handle": "130",
+    "kind": "dimension",
+    "render": "dim_num",
+    "expect": "2",
+    "op": "E1"
+   },
+   {
+    "item": "shaft.seg1_d+shaft.seg1_d_tol",
+    "handle": "13E",
+    "kind": "dimension",
+    "render": "dim_dia_tol",
+    "expect": "φ23+0.050/ +0.034",
+    "op": "E4"
+   },
+   {
+    "item": "shaft.seg2_d",
+    "handle": "14B",
+    "kind": "dimension",
+    "render": "dim_dia",
+    "expect": "φ28",
+    "op": "E1"
+   },
+   {
+    "item": "shaft.seg3_d+shaft.seg3_d_tol",
+    "handle": "158",
+    "kind": "dimension",
+    "render": "dim_dia_tol",
+    "expect": "φ30+0.021/ +0.002",
+    "op": "E4"
+   },
+   {
+    "item": "shaft.seg4_d+shaft.seg4_d_tol",
+    "handle": "165",
+    "kind": "dimension",
+    "render": "dim_dia_tol",
+    "expect": "φ35+0.060/+0.041",
+    "op": "E4"
+   },
+   {
+    "item": "shaft.seg5_d",
+    "handle": "172",
+    "kind": "dimension",
+    "render": "dim_dia",
+    "expect": "φ36",
+    "op": "E1"
+   },
+   {
+    "item": "shaft.seg6_d+shaft.seg6_d_tol",
+    "handle": "17F",
+    "kind": "dimension",
+    "render": "dim_dia_tol",
+    "expect": "φ30+0.021/ +0.002",
+    "op": "E4"
+   },
+   {
+    "item": "shaft.key1_w+shaft.key1_w_tol",
+    "handle": "833",
+    "kind": "dimension",
+    "render": "dim_num_tol",
+    "expect": "8 0/ -0.043",
+    "op": "E1"
+   },
+   {
+    "item": "shaft.key1_depth+shaft.key1_depth_tol",
+    "handle": "841",
+    "kind": "dimension",
+    "render": "dim_num_tol",
+    "expect": "19.5 0/ -0.020",
+    "op": "E1"
+   },
+   {
+    "item": "shaft.key2_w+shaft.key2_w_tol",
+    "handle": "84E",
+    "kind": "dimension",
+    "render": "dim_num_tol",
+    "expect": "10 0/ -0.043",
+    "op": "E1"
+   },
+   {
+    "item": "shaft.key2_depth+shaft.key2_depth_tol",
+    "handle": "85C",
+    "kind": "dimension",
+    "render": "dim_num_tol",
+    "expect": "31 0/ -0.020",
+    "op": "E1"
+   },
+   {
+    "item": "shaft.tech_req",
+    "handle": "A8D",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "技术要求(调质220-250HBW/R2/C1.5)",
+    "op": "E2"
+   },
+   {
+    "item": "shaft.title_name",
+    "handle": "A82",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "输出轴",
+    "op": "E2"
+   },
+   {
+    "item": "shaft.title_scale",
+    "handle": "AF2",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "1:1",
+    "op": "E2"
+   },
+   {
+    "item": "shaft.title_designer",
+    "handle": "C03",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "郑佳暄",
+    "op": "E2"
+   },
+   {
+    "item": "shaft.title_course",
+    "handle": "A8B",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "机械设计课程设计",
+    "op": "E2"
+   },
+   {
+    "item": "shaft.abnormal_text",
+    "handle": "A8C",
+    "kind": "mtext",
+    "render": "mtext",
+    "expect": "飞制2303|233423030303",
+    "op": "E5"
+   }
+  ]
+ },
+ "geo_groups": {
+  "gear": {
+   "part": "gear",
+   "scale": 1.5,
+   "center": {
+    "x": 82.0,
+    "y": 148.5
+   },
+   "groups": {
+    "GG-2": {
+     "name": "减重孔/腹板",
+     "drivers": [],
+     "entities": {
+      "81": "web_vert",
+      "85": "web_vert",
+      "86": "hole_edge",
+      "87": "web_vert",
+      "8B": "web_vert",
+      "8E": "web_vert",
+      "92": "web_vert",
+      "93": "hole_edge",
+      "94": "web_vert",
+      "98": "web_vert",
+      "9D": "web_vert",
+      "A1": "web_vert",
+      "A2": "hole_edge",
+      "A3": "web_vert",
+      "A7": "web_vert",
+      "AA": "web_vert",
+      "AE": "web_vert",
+      "AF": "hole_edge",
+      "B0": "web_vert",
+      "B4": "web_vert",
+      "BA": "chamfer_vert",
+      "BB": "web_vert",
+      "BC": "web_vert",
+      "BD": "chamfer_vert",
+      "BF": "chamfer_vert",
+      "C0": "web_vert",
+      "C1": "web_vert",
+      "C2": "chamfer_vert"
+     }
+    },
+    "GG-1": {
+     "name": "齿轮外廓",
+     "drivers": [],
+     "entities": {
+      "83": "rim_inner",
+      "89": "rim_inner",
+      "8A": "rim_inner",
+      "9F": "rim_inner",
+      "A5": "rim_inner",
+      "A6": "rim_inner",
+      "B9": "face_vert@100.0",
+      "BE": "face_vert@64.0",
+      "C5": "rim_tip",
+      "C8": "rim_tip",
+      "309": "rim_tip"
+     }
+    },
+    "GG-6": {
+     "name": "剖面过渡圆角",
+     "drivers": [],
+     "entities": {
+      "84": "fillet_arc",
+      "88": "fillet_arc",
+      "8D": "hatch",
+      "91": "fillet_arc",
+      "95": "fillet_arc",
+      "9C": "hatch",
+      "A9": "hatch"
+     }
+    },
+    "GG-3": {
+     "name": "轮毂/键槽",
+     "drivers": [],
+     "entities": {
+      "90": "hub_outer",
+      "96": "hub_outer",
+      "97": "hub_outer",
+      "9A": "bore",
+      "9B": "bore",
+      "AC": "hub_outer",
+      "B2": "hub_outer",
+      "B3": "hub_outer",
+      "B6": "bore",
+      "D6": "side_bore_arc",
+      "D8": "side_key_vert",
+      "D9": "side_key_vert",
+      "7F7": "bore",
+      "88A": "bore"
+     }
+    },
+    "GG-7": {
+     "name": "中心线",
+     "drivers": [],
+     "entities": {
+      "CF": "centerline",
+      "D0": "centerline",
+      "D1": "centerline",
+      "D2": "centerline",
+      "D4": "centerline",
+      "D5": "centerline",
+      "887": "centerline",
+      "888": "centerline"
+     }
+    }
+   },
+   "inherited_zones": [
+    {
+     "id": "Z-side",
+     "reason": "侧视细线（继承区）",
+     "entities": [
+      "79",
+      "7A",
+      "7B",
+      "7F",
+      "DA",
+      "1E6",
+      "42E",
+      "42F",
+      "430",
+      "432",
+      "837",
+      "838",
+      "839",
+      "83A"
+     ]
+    },
+    {
+     "id": "Z-sec-vert",
+     "reason": "剖视未归类竖线（继承区）",
+     "entities": [
+      "7C",
+      "80",
+      "1DC",
+      "36C",
+      "36E",
+      "3CE",
+      "3D0"
+     ]
+    },
+    {
+     "id": "Z-sec-horiz",
+     "reason": "剖视未归类水平线 r=84.67（继承区）",
+     "entities": [
+      "82",
+      "8C",
+      "8F",
+      "99",
+      "9E",
+      "A8",
+      "AB",
+      "C3",
+      "C4",
+      "C6",
+      "C7",
+      "1E0",
+      "1E3",
+      "245",
+      "246",
+      "247",
+      "249",
+      "308",
+      "30A",
+      "30C",
+      "36A",
+      "36B",
+      "3CC",
+      "3CD",
+      "7F8",
+      "881",
+      "882",
+      "883",
+      "889"
+     ]
+    },
+    {
+     "id": "Z-arc",
+     "reason": "未归类圆弧（继承区）",
+     "entities": [
+      "A0",
+      "A4",
+      "AD",
+      "B1"
+     ]
+    },
+    {
+     "id": "Z-lwpoly",
+     "reason": "多段线（粗糙度勾，继承区）",
+     "entities": [
+      "7FA"
+     ]
+    }
+   ],
+   "structure_zone": [
+    "105",
+    "112",
+    "11F",
+    "12C",
+    "139",
+    "146",
+    "153",
+    "160",
+    "16E",
+    "1DF",
+    "1E1",
+    "1E2",
+    "1E4",
+    "1E5",
+    "1E7",
+    "248",
+    "30B",
+    "36D",
+    "3CF",
+    "431",
+    "4B2",
+    "4B3",
+    "4B4",
+    "4B5",
+    "4B6",
+    "4B7",
+    "4B8",
+    "4B9",
+    "4BA",
+    "4BB",
+    "4BC",
+    "4BD",
+    "4BE",
+    "4BF",
+    "4C0",
+    "4C1",
+    "4C2",
+    "4C3",
+    "4C4",
+    "4C5",
+    "4C6",
+    "4C7",
+    "4C8",
+    "4C9",
+    "4CA",
+    "4CB",
+    "52A",
+    "52B",
+    "52C",
+    "52D",
+    "52E",
+    "52F",
+    "5DF",
+    "5E0",
+    "5E1",
+    "5E2",
+    "5E3",
+    "5E4",
+    "5E5",
+    "5E6",
+    "5E7",
+    "5E8",
+    "5E9",
+    "5EA",
+    "5EB",
+    "5EC",
+    "5ED",
+    "5EE",
+    "5EF",
+    "5F0",
+    "5F1",
+    "5F2",
+    "5F3",
+    "5F4",
+    "5F5",
+    "5F6",
+    "5F7",
+    "5F8",
+    "5F9",
+    "5FA",
+    "5FB",
+    "5FC",
+    "5FD",
+    "5FE",
+    "5FF",
+    "600",
+    "601",
+    "602",
+    "603",
+    "604",
+    "605",
+    "606",
+    "607",
+    "608",
+    "609",
+    "60A",
+    "60B",
+    "60C",
+    "60D",
+    "60E",
+    "60F",
+    "610",
+    "611",
+    "612",
+    "613",
+    "614",
+    "615",
+    "616",
+    "617",
+    "618",
+    "619",
+    "61A",
+    "61B",
+    "61C",
+    "61D",
+    "61E",
+    "61F",
+    "620",
+    "621",
+    "622",
+    "623",
+    "624",
+    "625",
+    "682",
+    "6DF",
+    "7D",
+    "7E",
+    "7F9",
+    "842",
+    "84D",
+    "851",
+    "EA",
+    "F8"
+   ],
+   "sketch": {
+    "section_x": [
+     64.03,
+     100.03
+    ],
+    "r_tip": 90.66666666666667,
+    "r_rim": 84.0,
+    "r_hub": 18.666666666666668,
+    "r_bore": 11.666666666666666,
+    "web_half_t": 3.3333333333333335,
+    "hole_center_r": 51.333333333333336,
+    "r_hole": 19.666666666666668,
+    "fillet_r": 3.3333333333333335,
+    "side_cx": 233.7,
+    "key_w_half": 3.3333333333333335,
+    "key_depth": 13.0
+   }
+  },
+  "shaft": {
+   "part": "shaft",
+   "scale": 1.0,
+   "center": {
+    "x": 100.0,
+    "y": 187.0
+   },
+   "groups": {
+    "GG-5": {
+     "name": "键槽（轴）",
+     "drivers": [],
+     "entities": {
+      "79": "section_edge",
+      "A2": "key1_edge",
+      "A3": "key1_edge",
+      "A6": "key4_edge",
+      "A7": "key4_edge",
+      "AC": "section_edge",
+      "AD": "section_edge",
+      "AE": "section_edge",
+      "B3": "section_edge",
+      "B4": "section_edge",
+      "B5": "section_edge",
+      "200": "key_mark",
+      "205": "key_mark",
+      "269": "key_mark",
+      "26E": "key_mark",
+      "2D2": "key_mark",
+      "2D7": "key_mark",
+      "33B": "key_mark",
+      "340": "key_mark",
+      "588": "key_mark",
+      "5EA": "key_mark",
+      "64D": "key_mark",
+      "86A": "section_edge",
+      "86D": "section_edge",
+      "8CE": "section_edge",
+      "8D0": "section_edge",
+      "930": "section_edge",
+      "932": "section_edge",
+      "991": "section_edge",
+      "993": "section_edge",
+      "9F2": "section_edge",
+      "9F4": "section_edge",
+      "AEE": "section_edge",
+      "AF0": "section_edge",
+      "B97": "key_mark",
+      "B9C": "key_mark",
+      "BB7": "key_mark"
+     }
+    },
+    "GG-4": {
+     "name": "轴段轮廓",
+     "drivers": [],
+     "entities": {
+      "81": "boundary@99.0",
+      "84": "substep@100.0",
+      "85": "seg1_outline",
+      "86": "seg1_outline",
+      "89": "boundary@152.0",
+      "8A": "seg2_outline",
+      "8B": "seg2_outline",
+      "8E": "boundary@202.0",
+      "8F": "seg3_outline",
+      "90": "seg3_outline",
+      "93": "boundary@246.5",
+      "94": "seg4_outline",
+      "95": "seg4_outline",
+      "96": "boundary@298.5",
+      "97": "seg5_outline",
+      "98": "seg5_outline",
+      "99": "boundary@325.0",
+      "9C": "seg6_outline",
+      "9D": "seg6_outline",
+      "9E": "substep@340.0",
+      "A1": "boundary@341.0",
+      "192": "boundary@298.5",
+      "193": "boundary@325.0"
+     }
+    },
+    "GG-7": {
+     "name": "中心线",
+     "drivers": [],
+     "entities": {
+      "AA": "centerline",
+      "B0": "centerline",
+      "B1": "centerline",
+      "B7": "centerline",
+      "B8": "centerline"
+     }
+    },
+    "GG-6": {
+     "name": "剖面线",
+     "drivers": [],
+     "entities": {
+      "AF": "hatch",
+      "B6": "hatch",
+      "201": "hatch",
+      "26A": "hatch",
+      "2D3": "hatch",
+      "33C": "hatch"
+     }
+    }
+   },
+   "inherited_zones": [
+    {
+     "id": "Z-vert",
+     "reason": "未归类竖线 x=420.0",
+     "entities": [
+      "7A",
+      "7C",
+      "58A",
+      "5EC"
+     ]
+    },
+    {
+     "id": "Z-horiz",
+     "reason": "未归类水平线 dy=110.0",
+     "entities": [
+      "7B",
+      "18D",
+      "190",
+      "195",
+      "198",
+      "19B",
+      "202",
+      "26B",
+      "2D4",
+      "33D",
+      "3A1",
+      "3A3",
+      "402",
+      "404",
+      "464",
+      "466",
+      "4C5",
+      "4C7",
+      "526",
+      "528"
+     ]
+    },
+    {
+     "id": "Z-line",
+     "reason": "斜线（继承区）",
+     "entities": [
+      "82",
+      "83",
+      "9F",
+      "A0",
+      "203",
+      "204",
+      "26C",
+      "26D",
+      "2D5",
+      "2D6",
+      "33E",
+      "33F",
+      "39F",
+      "3A0",
+      "400",
+      "401",
+      "462",
+      "463",
+      "4C3",
+      "4C4",
+      "524",
+      "525",
+      "586",
+      "587",
+      "5E8",
+      "5E9",
+      "8CC",
+      "8CD",
+      "92E",
+      "92F",
+      "98F",
+      "990",
+      "9F0",
+      "9F1",
+      "AEC",
+      "AED",
+      "B8E",
+      "B8F",
+      "B99",
+      "B9A",
+      "B9E",
+      "B9F",
+      "BB9",
+      "BBA"
+     ]
+    },
+    {
+     "id": "Z-arc",
+     "reason": "圆弧（退刀/过渡，继承区）",
+     "entities": [
+      "87",
+      "88",
+      "8C",
+      "8D",
+      "91",
+      "92",
+      "9A",
+      "9B",
+      "A4",
+      "A5",
+      "A8",
+      "A9",
+      "AB",
+      "B2"
+     ]
+    },
+    {
+     "id": "Z-lwpoly",
+     "reason": "多段线（继承区）",
+     "entities": [
+      "B96",
+      "B9B",
+      "BA0",
+      "BBB"
+     ]
+    }
+   ],
+   "structure_zone": [
+    "108",
+    "115",
+    "123",
+    "130",
+    "13E",
+    "14B",
+    "158",
+    "165",
+    "172",
+    "17F",
+    "18C",
+    "18E",
+    "18F",
+    "191",
+    "194",
+    "196",
+    "197",
+    "199",
+    "19A",
+    "19C",
+    "206",
+    "26F",
+    "2D8",
+    "341",
+    "3A2",
+    "403",
+    "465",
+    "4C6",
+    "527",
+    "589",
+    "5EB",
+    "64F",
+    "7D",
+    "7D5",
+    "7E",
+    "7F",
+    "80",
+    "832",
+    "833",
+    "841",
+    "84E",
+    "85C",
+    "869",
+    "86B",
+    "86C",
+    "86E",
+    "8CF",
+    "931",
+    "992",
+    "9F3",
+    "A74",
+    "A75",
+    "A76",
+    "A77",
+    "A78",
+    "A79",
+    "A7A",
+    "A7B",
+    "A7C",
+    "A7D",
+    "A7E",
+    "A7F",
+    "A80",
+    "A81",
+    "A82",
+    "A83",
+    "A84",
+    "A85",
+    "A86",
+    "A87",
+    "A88",
+    "A89",
+    "A8A",
+    "A8B",
+    "A8C",
+    "A8D",
+    "AEF",
+    "AF1",
+    "AF2",
+    "B9",
+    "B98",
+    "B9D",
+    "BB8",
+    "C03",
+    "C05",
+    "C7",
+    "D4",
+    "E1",
+    "EE",
+    "FB"
+   ],
+   "sketch": {
+    "axis_y": 187.0,
+    "segments": [
+     {
+      "x0": 99.0,
+      "x1": 152.0,
+      "r": 11.5
+     },
+     {
+      "x0": 152.0,
+      "x1": 202.0,
+      "r": 14.0
+     },
+     {
+      "x0": 202.0,
+      "x1": 246.5,
+      "r": 15.0
+     },
+     {
+      "x0": 246.5,
+      "x1": 298.5,
+      "r": 17.5
+     },
+     {
+      "x0": 298.5,
+      "x1": 325.0,
+      "r": 18.0
+     },
+     {
+      "x0": 325.0,
+      "x1": 341.0,
+      "r": 15.0
+     }
+    ],
+    "sub_steps": {
+     "1": 100.0,
+     "6": 340.0
+    },
+    "keyways": [
+     {
+      "seg": 1,
+      "x0": 105.0,
+      "x1": 147.0,
+      "half_w": 4.0
+     },
+     {
+      "seg": 4,
+      "x0": 255.0,
+      "x1": 290.0,
+      "half_w": 5.0
+     }
+    ],
+    "sections": {
+     "F-F": 129.0,
+     "G-G": 203.0
+    }
+   }
+  }
+ },
+ "value_snapshot": {
+  "gear": {
+   "EA": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "%%C35{}{\\H0.71x;\\C3;\\S+0.030^  0;}",
+    "plain": "φ35+0.030/  0",
+    "x": 54.03,
+    "y": 136.83
+   },
+   "F8": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "%%C268",
+    "plain": "φ268",
+    "x": 43.67,
+    "y": 59.17
+   },
+   "105": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "%%C272{}{\\H0.71x;\\C3;\\S 0^ -0.300;}",
+    "plain": "φ272 0/ -0.300",
+    "x": 36.46,
+    "y": 57.83
+   },
+   "112": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "%%C56",
+    "plain": "φ56",
+    "x": 110.03,
+    "y": 129.83
+   },
+   "11F": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "%%C154",
+    "plain": "φ154",
+    "x": 115.03,
+    "y": 97.17
+   },
+   "12C": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "%%C252",
+    "plain": "φ252",
+    "x": 120.03,
+    "y": 64.5
+   },
+   "139": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "6X%%C59",
+    "plain": "6Xφ59",
+    "x": 69.72,
+    "y": 180.17
+   },
+   "146": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "10",
+    "plain": "10",
+    "x": 85.36,
+    "y": 87.33
+   },
+   "153": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "54",
+    "plain": "54",
+    "x": 100.03,
+    "y": 47.83
+   },
+   "160": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "10%%P0.0215",
+    "plain": "10%%P0.0215",
+    "x": 230.36,
+    "y": 174.16
+   },
+   "16E": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "39{}{\\H0.71x;\\C3;\\S+0.2^  0;}",
+    "plain": "39+0.2/  0",
+    "x": 266.19,
+    "y": 136.83
+   },
+   "1E1": {
+    "kind": "tolerance",
+    "layer": "尺寸线",
+    "raw": "{\\Fgdt;h}%%v0.022%%vA",
+    "plain": "{h}|0.022|A",
+    "x": 64.03,
+    "y": 249.17
+   },
+   "1E4": {
+    "kind": "tolerance",
+    "layer": "尺寸线",
+    "raw": "{\\Fgdt;h}%%v0.022%%vA",
+    "plain": "{h}|0.022|A",
+    "x": 110.03,
+    "y": 52.83
+   },
+   "1E7": {
+    "kind": "tolerance",
+    "layer": "尺寸线",
+    "raw": "{\\Fgdt;i}%%v0.02%%vA",
+    "plain": "{i}|0.02|A",
+    "x": 252.36,
+    "y": 174.17
+   },
+   "248": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Ra1.6}",
+    "plain": "Ra1.6",
+    "x": 109.59,
+    "y": 248.29
+   },
+   "30B": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Ra3.2}",
+    "plain": "Ra3.2",
+    "x": 38.5,
+    "y": 50.35
+   },
+   "36D": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Ra3.2}",
+    "plain": "Ra3.2",
+    "x": 54.24,
+    "y": 211.86
+   },
+   "3CF": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Ra3.2}",
+    "plain": "Ra3.2",
+    "x": 107.3,
+    "y": 202.31
+   },
+   "431": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Ra6.3}",
+    "plain": "Ra6.3",
+    "x": 194.64,
+    "y": 166.73
+   },
+   "4C0": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;大齿轮}",
+    "plain": "大齿轮",
+    "x": 275.35,
+    "y": 35.71
+   },
+   "4C1": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;设 计}",
+    "plain": "设 计",
+    "x": 265.0,
+    "y": 24.22
+   },
+   "4C2": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;绘 图}",
+    "plain": "绘 图",
+    "x": 265.0,
+    "y": 17.22
+   },
+   "4C3": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;审 阅}",
+    "plain": "审 阅",
+    "x": 265.0,
+    "y": 10.22
+   },
+   "4C4": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;(日 期)}",
+    "plain": "(日 期)",
+    "x": 315.0,
+    "y": 24.22
+   },
+   "4C5": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;比 例}",
+    "plain": "比 例",
+    "x": 330.0,
+    "y": 38.13
+   },
+   "4C6": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;数 量}",
+    "plain": "数 量",
+    "x": 330.0,
+    "y": 31.13
+   },
+   "4C7": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;图 号}",
+    "plain": "图 号",
+    "x": 370.0,
+    "y": 38.13
+   },
+   "4C8": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;材 料}",
+    "plain": "材 料",
+    "x": 370.0,
+    "y": 31.13
+   },
+   "4C9": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;机械设计课程设计}",
+    "plain": "机械设计课程设计",
+    "x": 338.58,
+    "y": 21.41
+   },
+   "4CA": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;飞制2303\\P233423030303}",
+    "plain": "飞制2303\n233423030303",
+    "x": 377.7,
+    "y": 21.43
+   },
+   "4CB": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;       技术要求\\P\\pxql;\\H0.7x;1.材料45钢，正火处理后齿面硬度170-210HBW；\\P2.未注圆角半径R5；\\P3.未注倒角为C2；}",
+    "plain": "       技术要求\n1.材料45钢，正火处理后齿面硬度170-210HBW；\n2.未注圆角半径R5；\n3.未注倒角为C2；",
+    "x": 312.31,
+    "y": 75.49
+   },
+   "52D": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Ra12.5}",
+    "plain": "Ra12.5",
+    "x": 286.25,
+    "y": 63.61
+   },
+   "52F": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;（√）}",
+    "plain": "（√）",
+    "x": 266.37,
+    "y": 58.83
+   },
+   "5F5": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;模数}",
+    "plain": "模数",
+    "x": 360.0,
+    "y": 288.5
+   },
+   "5F6": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;齿数}",
+    "plain": "齿数",
+    "x": 360.0,
+    "y": 281.5
+   },
+   "5F7": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;齿形角}",
+    "plain": "齿形角",
+    "x": 360.0,
+    "y": 274.5
+   },
+   "5F8": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;齿顶高系数}",
+    "plain": "齿顶高系数",
+    "x": 360.0,
+    "y": 267.5
+   },
+   "5F9": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;变位系数}",
+    "plain": "变位系数",
+    "x": 360.0,
+    "y": 260.5
+   },
+   "5FA": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;中心距及偏差}",
+    "plain": "中心距及偏差",
+    "x": 360.0,
+    "y": 246.44
+   },
+   "5FB": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;配对齿轮}",
+    "plain": "配对齿轮",
+    "x": 355.08,
+    "y": 236.21
+   },
+   "5FC": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;径向跳动公差}",
+    "plain": "径向跳动公差",
+    "x": 360.0,
+    "y": 211.41
+   },
+   "5FD": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;齿数}",
+    "plain": "齿数",
+    "x": 370.19,
+    "y": 232.5
+   },
+   "5FE": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;图号}",
+    "plain": "图号",
+    "x": 370.3,
+    "y": 239.38
+   },
+   "5FF": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;精度等级}",
+    "plain": "精度等级",
+    "x": 360.0,
+    "y": 253.5
+   },
+   "600": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;公 差 组}",
+    "plain": "公 差 组",
+    "x": 359.62,
+    "y": 222.39
+   },
+   "601": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;齿廓总偏差}",
+    "plain": "齿廓总偏差",
+    "x": 359.99,
+    "y": 204.59
+   },
+   "602": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;单个齿距偏差}",
+    "plain": "单个齿距偏差",
+    "x": 359.99,
+    "y": 197.68
+   },
+   "603": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;公法线平均长度\\P及其上、下偏差}",
+    "plain": "公法线平均长度\n及其上、下偏差",
+    "x": 359.62,
+    "y": 187.0
+   },
+   "604": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;跨 齿 数}",
+    "plain": "跨 齿 数",
+    "x": 359.99,
+    "y": 176.69
+   },
+   "607": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;\\H0.77778x;m\\H0.71429x;n}",
+    "plain": "mn",
+    "x": 380.0,
+    "y": 288.5
+   },
+   "608": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Z}",
+    "plain": "Z",
+    "x": 380.0,
+    "y": 281.5
+   },
+   "609": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;N\\H0.71429x;0}",
+    "plain": "N0",
+    "x": 380.0,
+    "y": 239.5
+   },
+   "60A": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Z\\H0.71429x;m}",
+    "plain": "Zm",
+    "x": 380.0,
+    "y": 232.5
+   },
+   "60B": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;F\\H0.71429x;r}",
+    "plain": "Fr",
+    "x": 380.0,
+    "y": 211.41
+   },
+   "60C": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c0|p2;0.0\\fSimSun|b0|i0|c134|p2;43}",
+    "plain": "0.043",
+    "x": 400.0,
+    "y": 211.41
+   },
+   "60D": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;\\H0.77778x;h\\H0.71429x;*}",
+    "plain": "h*",
+    "x": 378.43,
+    "y": 269.58
+   },
+   "60E": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;α}",
+    "plain": "α",
+    "x": 380.0,
+    "y": 274.5
+   },
+   "60F": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;x}",
+    "plain": "x",
+    "x": 380.09,
+    "y": 260.91
+   },
+   "610": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\H0.71429x;GB/T10095-2008}",
+    "plain": "GB/T10095-2008",
+    "x": 396.16,
+    "y": 253.32
+   },
+   "611": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;a+fa}",
+    "plain": "a+fa",
+    "x": 380.09,
+    "y": 246.91
+   },
+   "612": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;检验\\P项目\\P代号}",
+    "plain": "检验\n项目\n代号",
+    "x": 380.0,
+    "y": 221.87
+   },
+   "613": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;公差或极限\\P偏差值}",
+    "plain": "公差或极限\n偏差值",
+    "x": 400.0,
+    "y": 221.6
+   },
+   "614": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;F\\H0.71429x;a}",
+    "plain": "Fa",
+    "x": 380.09,
+    "y": 204.81
+   },
+   "615": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c0|p2;0.0\\fSimSun|b0|i0|c134|p2;22}",
+    "plain": "0.022",
+    "x": 400.09,
+    "y": 204.43
+   },
+   "616": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;F\\H0.71429x;t}",
+    "plain": "Ft",
+    "x": 380.09,
+    "y": 197.81
+   },
+   "617": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;42.439}",
+    "plain": "42.439",
+    "x": 393.59,
+    "y": 186.6
+   },
+   "618": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;K}",
+    "plain": "K",
+    "x": 380.09,
+    "y": 176.81
+   },
+   "619": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;6}",
+    "plain": "6",
+    "x": 400.09,
+    "y": 176.43
+   },
+   "61A": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;-0.132}",
+    "plain": "-0.132",
+    "x": 404.53,
+    "y": 188.42
+   },
+   "61B": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;-0.176}",
+    "plain": "-0.176",
+    "x": 404.51,
+    "y": 185.23
+   },
+   "61C": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;%%P\\fSimSun|b0|i0|c0|p2;0.0\\fSimSun|b0|i0|c134|p2;12}",
+    "plain": "±0.012",
+    "x": 400.09,
+    "y": 197.43
+   },
+   "61D": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "20%%D",
+    "plain": "20°",
+    "x": 400.0,
+    "y": 274.5
+   },
+   "61E": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "1.0",
+    "plain": "1.0",
+    "x": 400.0,
+    "y": 267.5
+   },
+   "61F": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "1:1.5",
+    "plain": "1:1.5",
+    "x": 355.47,
+    "y": 37.52
+   },
+   "620": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "2",
+    "plain": "2",
+    "x": 396.62,
+    "y": 289.76
+   },
+   "621": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "134",
+    "plain": "134",
+    "x": 396.62,
+    "y": 282.76
+   },
+   "622": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "0",
+    "plain": "0",
+    "x": 399.62,
+    "y": 261.76
+   },
+   "623": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "8",
+    "plain": "8",
+    "x": 376.44,
+    "y": 254.76
+   },
+   "624": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "161%%P0.032",
+    "plain": "161±0.032",
+    "x": 390.15,
+    "y": 247.76
+   },
+   "625": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "27",
+    "plain": "27",
+    "x": 396.62,
+    "y": 233.76
+   },
+   "682": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;均布}",
+    "plain": "均布",
+    "x": 71.27,
+    "y": 195.93
+   },
+   "6DF": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;两端}",
+    "plain": "两端",
+    "x": 116.84,
+    "y": 49.45
+   },
+   "7F9": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;A}",
+    "plain": "A",
+    "x": 53.97,
+    "y": 130.94
+   },
+   "842": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Ra3.2}",
+    "plain": "Ra3.2",
+    "x": 246.34,
+    "y": 155.36
+   },
+   "84D": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;郑佳暄}",
+    "plain": "郑佳暄",
+    "x": 275.05,
+    "y": 17.7
+   },
+   "851": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;A3}",
+    "plain": "A3",
+    "x": 375.5,
+    "y": 38.26
+   }
+  },
+  "shaft": {
+   "B9": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "53",
+    "plain": "53",
+    "x": 152.0,
+    "y": 151.22
+   },
+   "C7": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "50",
+    "plain": "50",
+    "x": 202.0,
+    "y": 151.36
+   },
+   "D4": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "44.5",
+    "plain": "44.5",
+    "x": 246.5,
+    "y": 151.35
+   },
+   "E1": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "52",
+    "plain": "52",
+    "x": 298.5,
+    "y": 151.4
+   },
+   "EE": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "16",
+    "plain": "16",
+    "x": 341.0,
+    "y": 151.08
+   },
+   "FB": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "242",
+    "plain": "242",
+    "x": 341.0,
+    "y": 144.0
+   },
+   "108": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "45",
+    "plain": "45",
+    "x": 295.0,
+    "y": 156.91
+   },
+   "115": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "3.5",
+    "plain": "3.5",
+    "x": 246.5,
+    "y": 159.0
+   },
+   "123": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "50",
+    "plain": "50",
+    "x": 151.0,
+    "y": 159.0
+   },
+   "130": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "2",
+    "plain": "2",
+    "x": 99.0,
+    "y": 159.0
+   },
+   "13E": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "%%C23{}{\\H0.71x;\\C3;\\S+0.050^ +0.034;}",
+    "plain": "φ23+0.050/ +0.034",
+    "x": 92.0,
+    "y": 175.5
+   },
+   "14B": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "%%C28",
+    "plain": "φ28",
+    "x": 177.0,
+    "y": 173.0
+   },
+   "158": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "%%C30{}{\\H0.71x;\\C3;\\S+0.021^ +0.002;}",
+    "plain": "φ30+0.021/ +0.002",
+    "x": 224.25,
+    "y": 172.0
+   },
+   "165": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "%%C35{}{\\H0.71x;\\C3;\\S+0.060^ +0.041;}",
+    "plain": "φ35+0.060/ +0.041",
+    "x": 272.5,
+    "y": 169.5
+   },
+   "172": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "%%C36",
+    "plain": "φ36",
+    "x": 323.0,
+    "y": 169.0
+   },
+   "17F": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "%%C30{}{\\H0.71x;\\C3;\\S+0.021^ +0.002;}",
+    "plain": "φ30+0.021/ +0.002",
+    "x": 351.0,
+    "y": 172.0
+   },
+   "18E": {
+    "kind": "tolerance",
+    "layer": "尺寸线",
+    "raw": "{\\Fgdt;h}%%v0.012%%v%%vA-B%%v%%v",
+    "plain": "{h}|0.012||A-B||",
+    "x": 109.0,
+    "y": 211.0
+   },
+   "191": {
+    "kind": "tolerance",
+    "layer": "尺寸线",
+    "raw": "{\\Fgdt;g}%%v0.005%%v%%v%%v%%v^J{\\Fgdt;h}%%v0.015%%v%%vA-B%%v%%v",
+    "plain": "{g}|0.005||||^J{h}|0.015||A-B||",
+    "x": 212.0,
+    "y": 221.47
+   },
+   "196": {
+    "kind": "tolerance",
+    "layer": "尺寸线",
+    "raw": "{\\Fgdt;h}%%v0.015%%vA-B",
+    "plain": "{h}|0.015|A-B",
+    "x": 257.28,
+    "y": 235.0
+   },
+   "199": {
+    "kind": "tolerance",
+    "layer": "尺寸线",
+    "raw": "{\\Fgdt;h}%%v0.015%%vA-B^M%%v%%v%%v",
+    "plain": "{h}|0.015|A-B^M|||",
+    "x": 249.0,
+    "y": 224.5
+   },
+   "19C": {
+    "kind": "tolerance",
+    "layer": "尺寸线",
+    "raw": "{\\Fgdt;g}%%v0.005",
+    "plain": "{g}|0.005",
+    "x": 340.0,
+    "y": 217.0
+   },
+   "206": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;F}",
+    "plain": "F",
+    "x": 125.42,
+    "y": 204.45
+   },
+   "26F": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;F}",
+    "plain": "F",
+    "x": 125.42,
+    "y": 172.69
+   },
+   "2D8": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;E}",
+    "plain": "E",
+    "x": 257.92,
+    "y": 210.45
+   },
+   "341": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;E}",
+    "plain": "E",
+    "x": 257.92,
+    "y": 166.69
+   },
+   "3A2": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Ra1.6}",
+    "plain": "Ra1.6",
+    "x": 145.44,
+    "y": 208.95
+   },
+   "403": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Ra0.4}",
+    "plain": "Ra0.4",
+    "x": 189.06,
+    "y": 211.45
+   },
+   "465": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Ra0.8}",
+    "plain": "Ra0.8",
+    "x": 226.38,
+    "y": 212.44
+   },
+   "4C6": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Ra1.6}",
+    "plain": "Ra1.6",
+    "x": 288.56,
+    "y": 214.95
+   },
+   "527": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Ra0.8}",
+    "plain": "Ra0.8",
+    "x": 342.64,
+    "y": 212.16
+   },
+   "589": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Ra3.2}",
+    "plain": "Ra3.2",
+    "x": 288.71,
+    "y": 226.01
+   },
+   "5EB": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Ra1.6}",
+    "plain": "Ra1.6",
+    "x": 332.43,
+    "y": 217.13
+   },
+   "64F": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;D}",
+    "plain": "D",
+    "x": 91.84,
+    "y": 169.63
+   },
+   "7D5": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;F-F}",
+    "plain": "F-F",
+    "x": 117.54,
+    "y": 127.08
+   },
+   "832": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;E-E}",
+    "plain": "E-E",
+    "x": 186.54,
+    "y": 127.08
+   },
+   "833": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "8{}{\\H0.71x;\\C3;\\S 0^ -0.043;}",
+    "plain": "8 0/ -0.043",
+    "x": 147.0,
+    "y": 92.5
+   },
+   "841": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "19.5{}{\\H0.71x;\\C3;\\S 0^ -0.020;}",
+    "plain": "19.5 0/ -0.020",
+    "x": 109.0,
+    "y": 54.83
+   },
+   "84E": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "10{}{\\H0.71x;\\C3;\\S 0^ -0.043;}",
+    "plain": "10 0/ -0.043",
+    "x": 222.0,
+    "y": 91.5
+   },
+   "85C": {
+    "kind": "dimension",
+    "layer": "尺寸线",
+    "raw": "31{}{\\H0.71x;\\C3;\\S 0^ -0.020;}",
+    "plain": "31 0/ -0.020",
+    "x": 172.0,
+    "y": 55.46
+   },
+   "86B": {
+    "kind": "tolerance",
+    "layer": "尺寸线",
+    "raw": "{\\Fgdt;i}%%v0.02%%vD",
+    "plain": "{i}|0.02|D",
+    "x": 152.0,
+    "y": 116.5
+   },
+   "86E": {
+    "kind": "tolerance",
+    "layer": "尺寸线",
+    "raw": "{\\Fgdt;i}%%v0.02%%vC",
+    "plain": "{i}|0.02|C",
+    "x": 227.0,
+    "y": 116.5
+   },
+   "8CF": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Ra3.2}",
+    "plain": "Ra3.2",
+    "x": 154.27,
+    "y": 94.98
+   },
+   "931": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Ra6.3}",
+    "plain": "Ra6.3",
+    "x": 118.64,
+    "y": 69.65
+   },
+   "992": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Ra3.2}",
+    "plain": "Ra3.2",
+    "x": 229.27,
+    "y": 92.98
+   },
+   "9F3": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Ra6.3}",
+    "plain": "Ra6.3",
+    "x": 193.14,
+    "y": 68.39
+   },
+   "A82": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;输出轴}",
+    "plain": "输出轴",
+    "x": 275.35,
+    "y": 35.71
+   },
+   "A83": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;设 计}",
+    "plain": "设 计",
+    "x": 265.0,
+    "y": 24.22
+   },
+   "A84": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;绘 图}",
+    "plain": "绘 图",
+    "x": 265.0,
+    "y": 17.22
+   },
+   "A85": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;审 阅}",
+    "plain": "审 阅",
+    "x": 265.0,
+    "y": 10.22
+   },
+   "A86": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;(日 期)}",
+    "plain": "(日 期)",
+    "x": 315.0,
+    "y": 24.22
+   },
+   "A87": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;比 例}",
+    "plain": "比 例",
+    "x": 330.0,
+    "y": 38.13
+   },
+   "A88": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;数 量}",
+    "plain": "数 量",
+    "x": 330.0,
+    "y": 31.13
+   },
+   "A89": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;图 号}",
+    "plain": "图 号",
+    "x": 370.0,
+    "y": 38.13
+   },
+   "A8A": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;材 料}",
+    "plain": "材 料",
+    "x": 370.0,
+    "y": 31.13
+   },
+   "A8B": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;机械设计课程设计}",
+    "plain": "机械设计课程设计",
+    "x": 338.58,
+    "y": 21.41
+   },
+   "A8C": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;飞制2303\\P233423030303}",
+    "plain": "飞制2303\n233423030303",
+    "x": 377.7,
+    "y": 21.43
+   },
+   "A8D": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;       技术要求\\P\\pxql;\\H0.7x;1.调质处理，表面硬度220-250HBW；\\P2.未注圆角半径R2；\\P3.未注倒角为C1.5；\\P4.未注尺寸公差按GB/T 18204-m。}",
+    "plain": "       技术要求\n1.调质处理，表面硬度220-250HBW；\n2.未注圆角半径R2；\n3.未注倒角为C1.5；\n4.未注尺寸公差按GB/T 18204-m。",
+    "x": 321.82,
+    "y": 82.86
+   },
+   "AEF": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;Ra12.5}",
+    "plain": "Ra12.5",
+    "x": 297.6,
+    "y": 58.38
+   },
+   "AF1": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;（√）}",
+    "plain": "（√）",
+    "x": 277.73,
+    "y": 53.6
+   },
+   "AF2": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "1:1",
+    "plain": "1:1",
+    "x": 355.47,
+    "y": 37.52
+   },
+   "B98": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;B}",
+    "plain": "B",
+    "x": 224.09,
+    "y": 166.13
+   },
+   "B9D": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;C}",
+    "plain": "C",
+    "x": 272.34,
+    "y": 163.63
+   },
+   "BB8": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "{\\fSimSun|b0|i0|c134|p2;A}",
+    "plain": "A",
+    "x": 350.84,
+    "y": 166.13
+   },
+   "C03": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;郑佳暄}",
+    "plain": "郑佳暄",
+    "x": 273.25,
+    "y": 18.01
+   },
+   "C05": {
+    "kind": "mtext",
+    "layer": "文字",
+    "raw": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;A3}",
+    "plain": "A3",
+    "x": 375.5,
+    "y": 37.87
+   }
+  }
+ },
+ "u7_findings": [
+  {
+   "id": "N1",
+   "item": "输出轴 26.5/19.5/31/3.5/2.0 归属",
+   "conclusion": "依模板图形判定（2026-11-14 defpoint 锚点实测，C4/C5）：3.5=键槽2轴向定位（肩246.5→槽口端250，#115）；2.0=键槽1轴向定位（端面99→101，#130）；19.5/31=键槽深1/2（d−t1 图值，断面 #841/#85C，公差 0/-0.020）；26.5（第5段长）未单独标注，由总长 242 反算。D 六 的'倒角/键槽定位'标签互换系文档笔误。HB3 复核位保留"
+  },
+  {
+   "id": "N2",
+   "item": "参数表 K=6 / W=42.439",
+   "conclusion": "与本算例 z2=134（k=z/9+0.5=15，W=89.37）不匹配，为参考图遗留值；按 A 通道修正 K→15、W→89.37（E4/E2）；±0.012(f_pt)、0.043(F_r)、0.022(F_α) 归属参数表检验项目，B 通道取模板值（C8~C13 差异记录）；GB/T10095-2008/-2001 年号并存：取模板 -2008"
+  },
+  {
+   "id": "N3",
+   "item": "标题栏字段",
+   "conclusion": "图号/日期/班级/学号占位（郑佳暄/飞制2303 等），算例可经 case.yaml 注入（U9）；MVP 不注入"
+  },
+  {
+   "id": "N4",
+   "item": "异常文本 飞制2303|233423030303",
+   "conclusion": "两模板标题栏各 1 处（#4CA/#A8C）；U8 建议清理，默认保留待会签（E5 能力预留，update_plan 默认不含）"
+  },
+  {
+   "id": "N5",
+   "item": "技术要求完整行文",
+   "conclusion": "齿轮 #4CB：材料45钢正火170-210HBW/R5/C2（C7 高风险待书面确认）；轴 #A8D：调质220-250HBW/R2/C1.5"
+  },
+  {
+   "id": "N6",
+   "item": "实体统计口径",
+   "conclusion": "需求文档 2.3 为全文件口径（含块定义/匿名*D尺寸块）；ezdxf 模型空间口径：齿轮 {'LINE': 154, 'ARC': 9, 'HATCH': 3, 'DIMENSION': 11, 'LEADER': 3, 'TOLERANCE': 3, 'MTEXT': 72, 'LWPOLYLINE': 1}，轴 {'LINE': 151, 'ARC': 14, 'HATCH': 6, 'DIMENSION': 20, 'LEADER': 7, 'TOLERANCE': 7, 'MTEXT': 38, 'LWPOLYLINE': 4}；匿名 *D 块由 DIMENSION 引用，需随标注同步更新；INSERT=0 不代表这些块未被引用"
+  }
+ ],
+ "binding_verification_problems": []
+}

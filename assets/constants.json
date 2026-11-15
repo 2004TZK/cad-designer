@@ -1,0 +1,43 @@
+{
+ "generated_at": "2026-11-14T19:00:10",
+ "_comment": "常量表（清单 8.1，与零件参数无关）",
+ "alpha_deg": 20,
+ "ha_star": 1.0,
+ "c_star": 0.25,
+ "precision_grade": 8,
+ "tol_codes": {
+  "bore": "H7",
+  "tip_circle": "h11",
+  "seg1": "r6",
+  "seg3": "k6",
+  "seg4": "r6",
+  "key_hub": "JS9",
+  "key_shaft": "N9"
+ },
+ "ra_series": [
+  0.4,
+  0.8,
+  1.6,
+  3.2,
+  6.3,
+  12.5
+ ],
+ "chamfer": "C1.5~C2",
+ "corner_r": "R2~R5",
+ "linear_tol_grade": "GB/T 1804-m",
+ "geo_tol_grade": "GB/T 1184-H",
+ "structure": "腹板式",
+ "material_shaft": "45 钢调质",
+ "standards": [
+  "GB/T 1095",
+  "GB/T 1800.1",
+  "GB/T 10095.1/.2",
+  "GB/T 6443",
+  "GB/T 1804",
+  "GB/T 1184",
+  "GB/T 1031",
+  "GB/T 276",
+  "GB/T 1357",
+  "GB/T 117"
+ ]
+}
